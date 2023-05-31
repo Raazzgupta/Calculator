@@ -1,19 +1,20 @@
-Calculator Project
+Calculator Project:
+
 This is a simple calculator program written in C language using the switch-case statement. 
 The program allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Features
+Features:
 Addition: Perform addition of two numbers.
 Subtraction: Perform subtraction of two numbers.
 Multiplication: Perform multiplication of two numbers.
 Division: Perform division of two numbers.
 
-Prerequisites
+Prerequisites:
 To compile and run the calculator program, make sure you have the following software installed on your system:
 
-C compiler
+C compiler:
 (e.g., GCC)
-Getting Started
+Getting Started:
 To get started with the calculator program, follow these steps:
 
 1. Clone the repository or download the source code files.
@@ -34,15 +35,15 @@ Copy code
 $ ./calculator
 Follow the on-screen instructions to perform arithmetic operations using the calculator.
 
-Usage
+Usage: 
 The calculator program prompts the user to enter two numbers and choose an operation to perform. 
 The user can select the desired operation using the provided menu.
 
-Contributing
+Contributing:
 Contributions to this calculator project are welcome. If you find any issues or want to enhance the functionality, feel free to create a pull request.
 
-License
+License:
 This calculator project is licensed under the MIT License.
 
-Contact
+Contact:
 If you have any questions or suggestions regarding this calculator project, you can reach me at rajkumar68580@gmail.com.
